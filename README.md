@@ -71,6 +71,8 @@ No testing is currently set up
 ## Questions
 
 Please contact me with any questions: 
-GitHub Url: https://github.com/Christinaecb 
 
 Email address: christina.e.c.barberi@gmail.com
+
+Please visit my [GitHub](https://github.com/Christinaecb) to view my other work.
+
